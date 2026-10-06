@@ -45,7 +45,6 @@ O projeto foi construído do zero utilizando HTML5 e CSS3 puros, seguindo as dir
 biblioteca-unifecaf/
 │
 ├── index.html                  # Página principal do projeto
-├── README.md                   # Documentação do repositório
 ├── css/
 │   └── style.css               # Estilização e responsividade
 └── assets/
